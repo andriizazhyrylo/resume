@@ -5,8 +5,8 @@
 ## 🔗 Посилання
 
 - 🌐 Сайт: [https://your-username.github.io/resume-site](https://your-username.github.io/resume-site)  
-- 📁 Репозиторій з кодом: [https://github.com/your-username/resume-site](https://github.com/your-username/resume-site)  
-- 📌 Загальний репозиторій викладача: [https://github.com/teacher-username/portfolio-course](https://github.com/teacher-username/portfolio-course)
+- 📁 Репозиторій з кодом: [https://github.com/andriizazhyrylo/resume/edit/main/README.md)  
+- 📌 Загальний репозиторій викладача: [https://github.com/PorokhovnichenkoIryna/learning_git]
 
 > 🔄 Замініть `your-username` та `teacher-username` на свої GitHub-імена.
 
