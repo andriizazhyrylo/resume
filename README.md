@@ -4,7 +4,7 @@
 
 ## 🔗 Посилання
 
-- 🌐 Сайт: [https://your-username.github.io/resume-site](https://your-username.github.io/resume-site)  
+- 🌐 Сайт: [hhttps://andriizazhyrylo.github.io/resume/]
 - 📁 Репозиторій з кодом: [https://github.com/andriizazhyrylo/resume/edit/main/README.md)  
 - 📌 Загальний репозиторій викладача: [https://github.com/PorokhovnichenkoIryna/learning_git]
 
