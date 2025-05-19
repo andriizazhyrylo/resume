@@ -30,16 +30,17 @@
       display: flex;
       gap: 10px;
     }
-    button {
-      padding: 10px 15px;
+    .buttons button {
+      padding: 10px 20px;
       border: none;
       border-radius: 6px;
-      cursor: pointer;
       background-color: #007bff;
       color: white;
       font-size: 16px;
+      cursor: pointer;
+      transition: background-color 0.3s;
     }
-    button:hover {
+    .buttons button:hover {
       background-color: #0056b3;
     }
   </style>
@@ -63,13 +64,13 @@
 
     <h2>Мови</h2>
     <ul>
-      <li>Українська — рідна.</li>
+      <li>Українська — рідна</li>
       <li>Англійська — середній рівень</li>
     </ul>
 
     <div class="buttons">
-      <button onclick="window.location.href='https://porokhovnichenkoiryna.github.io/learning_git/public/'">🔙 Назад до сайту</button>
-      <button onclick="window.location.href='https://github.com/andriizazhyrylo/resume?tab=readme-ov-file'">💻 GitHub</button>
+      <button onclick="location.href='https://porokhovnichenkoiryna.github.io/learning_git/public/'">🔙 Назад до сайту</button>
+      <button onclick="location.href='https://github.com/andriizazhyrylo/resume'">💻 GitHub</button>
     </div>
   </div>
 </body>
