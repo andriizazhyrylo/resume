@@ -5,10 +5,43 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Резюме</title>
   <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background-color: #f9f9f9; }
-    .container { background: white; padding: 20px; border-radius: 8px; max-width: 800px; margin: auto; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-    h1, h2 { color: #333; }
-    ul { padding-left: 20px; }
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      background-color: #f9f9f9;
+    }
+    .container {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      max-width: 800px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #333;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .buttons {
+      margin-top: 30px;
+      display: flex;
+      gap: 10px;
+    }
+    button {
+      padding: 10px 15px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      background-color: #007bff;
+      color: white;
+      font-size: 16px;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
   </style>
 </head>
 <body>
@@ -21,11 +54,10 @@
     <h2>Освіта</h2>
     <p>KNUBA, 122 – 2024-2028</p>
 
-
     <h2>Навички</h2>
     <ul>
       <li>C++</li>
-      <li>html/css</li>
+      <li>HTML/CSS</li>
       <li>JS</li>
     </ul>
 
@@ -34,6 +66,11 @@
       <li>Українська — рідна</li>
       <li>Англійська — середній рівень</li>
     </ul>
+
+    <div class="buttons">
+      <button onclick="window.location.href='https://porokhovnichenkoiryna.github.io/learning_git/public/'">🔙 Назад до сайту</button>
+      <button onclick="window.location.href='https://github.com/andriizazhyrylo/resume?tab=readme-ov-file'">💻 GitHub</button>
+    </div>
   </div>
 </body>
 </html>
